@@ -1,0 +1,1 @@
+function encode64(r){for(var a,t,c,h,e,A,o,n="",d=0,N=r.length,i="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=";d<N;)a=r.charCodeAt(d++),t=r.charCodeAt(d++),c=r.charCodeAt(d++),h=a>>2,e=(3&a)<<4|t>>4,A=(15&t)<<2|c>>6,o=63&c,isNaN(t)?A=o=64:isNaN(c)&&(o=64),n=n+i.charAt(h)+i.charAt(e)+i.charAt(A)+i.charAt(o);return n}
