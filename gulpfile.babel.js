@@ -1,7 +1,7 @@
 'use strict';
 
 // const
-const PORT = null;
+const PORT = 3064;
 const FALLBACK = '404.html';
 
 const HTTP_PATH = './public/';
