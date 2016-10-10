@@ -1,4 +1,4 @@
-/**!
+/*!
  * This class handles LZW encoding
  * Adapted from Jef Poskanzer's Java port by way of J. M. G. Elliott.
  * @author Kevin Weiner (original Java version - kweiner@fmsware.com)
