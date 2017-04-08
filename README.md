@@ -1,5 +1,5 @@
 # GIFRIS
 
-gif + tetris mock.
+gif + tetris mockup.
 
-https://shuuuuun.github.io/gifris/
+DEMO: https://shuuuuun.github.io/gifris/
